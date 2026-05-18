@@ -1,73 +1,81 @@
 <h1 align="center">Hi 👋, I'm Md. Atik Hasan Rahat</h1>
-<h3 align="center">CSE Student | ML Enthusiast | Research-Oriented Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Cybersecurity+Researcher;IoT+Developer;Future+AI+Engineer" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 CSE Student at BRAC University (CGPA: 3.89)
-- 🔬 Interested in **AI, Cybersecurity & Anomaly Detection**
-- 📊 Working on **Air Quality Prediction & IoT-based Systems**
-- ✈️ Researching **Aircraft Hardware Anomaly Detection (GZSL)**
-- 🌱 Currently learning **Advanced ML & PySpark**
+## 🌌 About Me
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 CSE @ BRAC University (CGPA: 3.89)
+- 🔬 Researching **Aircraft Anomaly Detection (GZSL)**
+- 🤖 Passionate about **AI + Cybersecurity**
+- 🌍 Built **IoT-based Air Quality Prediction System**
+- 🚲 Developed **Smart Bike Rental System**
+- ⚡ Love solving real-world problems with ML
 
 ---
 
-## 🧠 Research Interests
-- 🔐 Cybersecurity & Fraud Detection
-- 🤖 Machine Learning & Deep Learning
-- 📡 IoT + AI Systems
-- 🧪 Zero-Shot & Few-Shot Learning
+## 🚀 Tech Stack
 
----
+<p align="center">
 
-## 🛠️ Skills
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,tensorflow,pytorch,opencv,arduino,git,github,vscode" />
 
-### Programming
-- Python 🐍
-- JavaScript
-- C/C++
-
-### Tools & Technologies
-- TensorFlow / PyTorch
-- Scikit-learn
-- Pandas / NumPy
-- OpenCV
-- Arduino / ESP32
-
-### Concepts
-- Machine Learning
-- Data Structures & Algorithms
-- Computer Vision
-- IoT Systems
-
----
-
-## 📌 Featured Projects
-
-### 🌍 Air Quality Prediction (ML + IoT)
-- Predict AQI using real-time sensor data
-- Integrated weather + pollution data
-
-### 🚲 Smart Bike Rental System
-- RFID Authentication + Servo Lock
-- ESP32-CAM image verification
-- Load sensor for return detection
-
-### ✈️ Aircraft Anomaly Detection (Research)
-- Using GZSL for unseen fault detection
-- Focus on predictive maintenance
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Research Interests
+- 🔐 Cybersecurity & Fraud Detection  
+- 🤖 Machine Learning & Deep Learning  
+- 🧪 Zero-Shot & Few-Shot Learning  
+- 📡 IoT + AI Systems  
+
+---
+
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: atikh8134@gmail.com
-- 💼 LinkedIn: (Add your link)
+
+<p align="center">
+  <a href="mailto:atikh8134@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
